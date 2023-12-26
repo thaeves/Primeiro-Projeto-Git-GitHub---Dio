@@ -1,4 +1,4 @@
-# Primeiro-Projeto-Git-GitHub---Dio.
+#Projeto-Git-GitHub
 
 Thalita Neves apresenta este projeto para avaliação.
 
