@@ -1,9 +1,5 @@
 ## Cronograma de Estudos - Programação 📚😁
 
-
-
-[TOC]
-
 | Segunda | Terça | Quarta | Quinta | Sexta | Sábado | Domingo |
 | ------- | ----- | ------ | ------ | ----- | ------ | ------- |
 
