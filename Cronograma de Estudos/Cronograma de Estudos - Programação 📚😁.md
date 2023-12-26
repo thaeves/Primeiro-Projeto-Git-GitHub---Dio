@@ -7,7 +7,7 @@
 | Segunda | Terça | Quarta | Quinta | Sexta | Sábado | Domingo |
 | ------- | ----- | ------ | ------ | ----- | ------ | ------- |
 
-## **1. Entenda a sua rotina**
+## ** Entenda a sua rotina**
 
 Para controlar os seus horários, o primeiro passo é entender a sua rotina. Reconhecer como o seu dia a dia funciona é o primeiro passo para encaixar as responsabilidades e não deixar nada para trás. Veja como acertar no planejamento!
 
