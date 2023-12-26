@@ -1,6 +1,4 @@
-#Projeto-Git-GitHub
-
-Thalita Neves apresenta este projeto para avaliação.
+#Projeto:
 
 O conteúdo deste material contém: 
 
