@@ -2,8 +2,9 @@ Projeto:
 
 O conteúdo deste material contém: 
 
-1. Cronograma de Estudo
-2. Dicas para Estudar melhor
+Todas as anotações sobre as áreas que eu estudo. 
+Feito para consulta e compartilhamento de informações.
+
 
 <img src="C:\Users\thali\OneDrive\Imagens\r6YemvF9_400x400.jpg" style="zoom:25%;" />
 
